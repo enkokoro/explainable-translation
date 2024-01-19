@@ -1,0 +1,10 @@
+# Other
+requests
+wheel
+
+# Language Translation
+deep-translator
+
+# NLP libraries
+konlpy
+nltk
