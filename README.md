@@ -6,3 +6,5 @@ source venv/bin/activate
 
 Oxford Dictionary
 https://developer.oxforddictionaries.com/documentation/making-requests-to-the-api
+
+google translate frontend
