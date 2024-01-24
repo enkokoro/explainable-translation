@@ -8,3 +8,4 @@ deep-translator
 # NLP libraries
 konlpy
 nltk
+PyMultiDictionary
